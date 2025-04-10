@@ -3,7 +3,7 @@
 
 - 🔭 Şu anda üzerinde çalışıyorum: `Kişisel Web Projem` 💻
 - 🌱 Şu anda öğreniyorum: `Python`, `Flutter` ⚡
-- 👯 Başka projelerde iş birliği yapmak ister misin? [Buraya Git](https://github.comRoise54)
+- 👯 Başka projelerde iş birliği yapmak ister misin? [Buraya Git](onurhanyldz9@gmail.com)
 
 ---
 
