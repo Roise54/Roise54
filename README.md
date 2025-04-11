@@ -37,7 +37,7 @@
 
 ### 📫 Bana Ulaşın:
 
-- **LinkedIn**: [Onurhan Yıldız]([https://www.linkedin.com/in/onurhanyildiz/](https://www.linkedin.com/in/onurhan-y%C4%B1ld%C4%B1z-a73a39344/))
+- **LinkedIn**:([https://www.linkedin.com/in/onurhanyildiz/](https://www.linkedin.com/in/onurhan-y%C4%B1ld%C4%B1z-a73a39344/))
 - **E-posta**: onurhanyldz9@gmail.com
 
 ---
